@@ -22,5 +22,4 @@ https://m.apkpure.com/ru/basic-compiler/com.rfo.compiler
 
 Theme on forum. (rus).
 Тема на форуме (рус).
-https://annimon.com/forum/id396951.
-45
+https://annimon.com/forum/id396951
